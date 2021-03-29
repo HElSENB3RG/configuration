@@ -4,7 +4,7 @@
 User = na
 Password = na
 Chat = -412776739
-; Willhaben: -412776739 Willhaben Immo: -447704999
+; standard: -412776739 Immo: -447704999
 
 [Marktplatz]
 Kategorie = na
